@@ -1,0 +1,8 @@
+.jumbotronStyle {
+    background: url(https://devschool.id/resources/themes/default/assets/img/bg-devops-2.jpg);
+    height: 472px;
+    color: white;
+}
+.text-center.text-jumbotron.container {
+    padding-top: 130px;
+}

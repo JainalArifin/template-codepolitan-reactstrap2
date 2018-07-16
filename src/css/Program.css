@@ -1,0 +1,11 @@
+.programStyle.container {
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.programStyle p {
+    font-size: 13px;
+    margin: 24px 0px;
+}
+.leftArticle{
+    border-right: 1px solid #eee;
+}

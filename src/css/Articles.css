@@ -1,0 +1,10 @@
+.articleStyle.nav.nav-tabs {
+    padding-left: 70px;
+    background-color: #eee;
+}
+.tabStyle {
+    border-top: 3px solid green;
+}
+/* .tabStyleRight{
+    border-top: 3px solid green;
+} */
